@@ -1,13 +1,19 @@
 body {
   text-align: center;
+  background-color: blanchedalmond;
 }
 a {
   text-decoration: none;
   margin-right: 10px;
+  color: rgb(90, 21, 155);
 }
 img {
   max-width: 100%;
   border-radius: 10px;
   display: block;
   margin: 30px auto;
+}
+a,
+p {
+  font-size: 16px;
 }
